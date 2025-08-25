@@ -24,7 +24,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anakarolinasf&show_icons=true&theme=dracula" alt="Ana GitHub stats"/>
