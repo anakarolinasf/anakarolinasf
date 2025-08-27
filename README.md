@@ -27,7 +27,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anakarolinasf&show_icons=true&theme=dracula" alt="Ana GitHub stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakarolinasf&layout=compact&theme=dracula" alt="Ana Top Langs"/>
+  
 </div>
 
 ---
